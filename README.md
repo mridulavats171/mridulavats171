@@ -28,7 +28,7 @@ I'm a **Java Backend Developer** with **3 years of experience** building product
 - Designed **EPG (Electronic Program Guide)** pipelines with daily refresh across hundreds of channels
 - Integrated **Ant Media Server** & **FFmpeg** for live and on-demand video processing (HLS/M3U8)
 - Built **TV app APIs** with search, pagination, and device-specific delivery (Roku, Fire TV, mobile)
-- **Impact:** Restructured Redis from flat lists to **sorted sets** — cut API response time from **seconds → milliseconds** for paginated content at scale
+- **Impact:** Restructured Redis from flat lists to **sorted sets** — cut API response time from **seconds → milliseconds** for paginated content at scale. Public reconstruction: [redis-catalog-pagination](https://github.com/mridulavats171/redis-catalog-pagination)
 
 ### 💳 Payment & Subscription Systems
 - Integrated **Stripe**, **PayPal**, and **NMI** payment gateways for multi-tenant SaaS billing
@@ -80,6 +80,7 @@ I'm a **Java Backend Developer** with **3 years of experience** building product
 
 | Project | Description |
 |---------|-------------|
+| [**redis-catalog-pagination**](https://github.com/mridulavats171/redis-catalog-pagination) | Redis LIST vs Sorted Set pagination — sanitized OTT catalog case study |
 | [**Microservice-project**](https://github.com/mridulavats171/Microservice-project) | User, Rating & Hotel microservices with Spring Boot |
 | [**microService-config**](https://github.com/mridulavats171/microService-config) | Configurations for distributed microservice setup |
 | [**LeetCode**](https://github.com/mridulavats171/LeetCode) | DSA & algorithm problem solutions in Java |
@@ -101,10 +102,10 @@ I'm a **Java Backend Developer** with **3 years of experience** building product
 
 ## 💡 Engineering Highlights
 
-> 🔹 Redesigned Redis data model for OTT pagination — **seconds → ms** response times  
-> 🔹 Integrated **3 payment gateways** (Stripe, PayPal, NMI) with webhook reliability  
-> 🔹 Built OAuth2 flows for **5+ social platforms** including live streaming APIs  
-> 🔹 Shipped production fixes across billing, streaming, TV apps, and user permissions  
+> 🔹 Redesigned Redis data model for OTT pagination — **seconds → ms** ([redis-catalog-pagination](https://github.com/mridulavats171/redis-catalog-pagination))
+> 🔹 Integrated **3 payment gateways** (Stripe, PayPal, NMI) with webhook reliability
+> 🔹 Built OAuth2 flows for **5+ social platforms** including live streaming APIs
+> 🔹 Shipped production fixes across billing, streaming, TV apps, and user permissions
 
 ---
 
