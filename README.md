@@ -15,7 +15,7 @@ Building scalable APIs, streaming platforms, and payment backends that handle re
 
 ## 👩‍💻 About Me
 
-I'm a **Java Backend Developer** with **2+ years of experience** building production-grade systems for SaaS, OTT, and media platforms. I work end-to-end on REST APIs, database design, third-party integrations, and performance optimization — from architecture decisions to deployment.
+I'm a **Java Backend Developer** with **3 years of experience** building production-grade systems for SaaS, OTT, and media platforms. I work end-to-end on REST APIs, database design, third-party integrations, and performance optimization — from architecture decisions to deployment.
 
 **Currently:** Associate Consultant L2 (Development) · **Education:** B.Tech, GGSIPU
 
