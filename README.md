@@ -89,17 +89,6 @@ I'm a **Java Backend Developer** with **3 years of experience** building product
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mridulavats171&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=mridulavats171&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 💡 Engineering Highlights
 
 > 🔹 Redesigned Redis data model for OTT pagination — **seconds → ms** ([redis-catalog-pagination](https://github.com/mridulavats171/redis-catalog-pagination))
